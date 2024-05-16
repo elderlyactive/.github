@@ -1,5 +1,5 @@
 # 🧓🏼 Elderly Active
-![network-4556932](https://user-images.githubusercontent.com/40807922/177052216-3387f29e-0bfa-4c65-8bad-8061b2958530.jpg)
+![banner](https://github.com/elderlyactive/.github/assets/49724485/2bfe9f27-e67b-430d-91d9-eb818fafb755)
 
 ## 👋 About
 Welcome to the **Elderly Active** GitHub organization.
